@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const PRIVATE_KEY = "";
+const PRIVATE_KEY = "";  // ใส่ private key ของคุณที่นี่
 
 module.exports = {
   defaultNetwork: "swisstronik",
@@ -12,3 +12,4 @@ module.exports = {
     },
   },
 };
+
